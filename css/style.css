@@ -677,3 +677,15 @@ input:checked + .slider:before {
 .darkmode .icon-features {
   background-color: #581eb6;
 }
+.darkmode .cover {
+  color: #05eb05;
+  background-color: #131414;
+  fill: #581eb6;
+  display: flex;
+  justify-content: center;
+}
+.darkmode .img {
+  color: #05eb05;
+  background-color: #080808;
+  fill: #581eb6;
+}
